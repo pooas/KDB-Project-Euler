@@ -4,6 +4,10 @@
 // 
 // By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
+fib:{x, sum -2#x} / [{last x < (4000000)};1 2];
+
+show result: sum fib where not fib mod 2;
+
 
 
 
