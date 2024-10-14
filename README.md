@@ -30,7 +30,7 @@ Installation
 Clone the repository:
 '
  bash
-   git clone https://github.com/yourusername/KDB-Project-Euler.git  
+   git clone https://github.com/pooas/KDB-Project-Euler.git  
    cd KDB-Project-Euler
 
 Open your kdb+ environment:
